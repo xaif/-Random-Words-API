@@ -43,9 +43,9 @@ yarn install
 yarn start
 ```
 
-## 🔀 Deploying to Heroku
+## 🔀 Deploying to Heroku App
 
-OneClick Deploy on Heroku
+OneClick Deploy on Heroku App
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mcnaveen/Random-Words-API)  
 
